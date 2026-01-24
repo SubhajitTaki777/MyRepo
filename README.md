@@ -6,8 +6,6 @@ Hi Everyone,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhajitTaki777&label=Profile views&color=0e75b6&style=flat" alt="SubhajitTaki777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhajitTaki777" alt="SubhajitTaki777" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/subhajit_taki77" target="blank"><img src="https://img.shields.io/twitter/follow/subhajit_taki77?logo=twitter&style=for-the-badge" alt="subhajit_taki77" /></a> </p>
 
 - 🔭 I'm currently working on **Enhancing my skills in Cyber Security, focusing on Web Application Penetration Testing (WAPT) and Vulnerability Assessment & Penetration Testing (VAPT).**
