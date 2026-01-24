@@ -29,7 +29,7 @@ Kali Linux tools**
 
 - ⚡ Fun fact **I enjoy breaking applications more than building them 😄.**
 
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/subhajitghosh777/](https://www.linkedin.com/in/subhajitghosh777/)**
+- 👨‍💻 All of my projects are available at **[https://github.com/SubhajitTaki777/](https://github.com/SubhajitTaki777/)**
 
 - 📝 I write articles on **[https://medium.com/@subhajit_taki77](https://medium.com/@subhajit_taki77)**
 
