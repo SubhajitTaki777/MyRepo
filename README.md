@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Subhajit Ghosh
 
-### 🛡️ Cyber Security Researcher | Web Application Penetration Tester | Bug Bounty Hunter
-
-<p align="left">
-  <img src="https://www.linkedin.com/in/subhajitghosh777/" />
-</p>
+### 🛡️ Cyber Security Researcher | Bug Bounty Hunter | VAPT
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SubhajitTaki777&theme=onedark&no-frame=true&margin-w=10" />
