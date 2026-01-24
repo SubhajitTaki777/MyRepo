@@ -3,7 +3,7 @@
 ### 🛡️ Cyber Security Researcher | Web Application Penetration Tester | Bug Bounty Hunter
 
 <p align="left">
-  <img src="[https://komarev.com/ghpvc/?username=SubhajitTaki777](https://www.linkedin.com/in/subhajitghosh777/)&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://www.linkedin.com/in/subhajitghosh777/&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
