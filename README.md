@@ -6,9 +6,7 @@
 
 - 🔭 I'm currently working on **Enhancing my skills in Cyber Security, focusing on Web Application Penetration Testing (WAPT) and Vulnerability Assessment & Penetration Testing (VAPT).**
 
-- 🌱 I'm currently learning **Advanced Web Exploitation
-Client-Side Vulnerabilities (postMessage, DOM XSS)
-Secure Code Review & Automation**
+- 🌱 I'm currently learning **Advanced Web Exploitation, Secure Code Review & Automation**
 
 - 👯 I'm looking to collaborate on **Open-source security tools
 
