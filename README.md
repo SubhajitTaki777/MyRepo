@@ -48,7 +48,7 @@ Kali Linux tools**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhajitTaki777&show_icons=true&locale=en&layout=compact" alt="SubhajitTaki777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhajitTaki777&show_icons=true&locale=en" alt="SubhajitTaki777" /></p>
+<p>&nbsp;<img align="center" alt="SubhajitTaki777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitTaki777&" alt="SubhajitTaki777" /></p>
 
